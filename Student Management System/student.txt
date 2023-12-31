@@ -1,0 +1,9 @@
+StudentID,StudentName,emailaddress,AttendanceStatus,ClassSchedule,Classname,date
+
+23,John well,5499@gmail.com,present,Friday,Chem,20230728
+
+4,John David,487445@gmail.com,tardy,Monday,Chem,20230131
+
+54,John Alex,1548@gmail.com,persent,Sunday,Hist,20231115
+
+123,Andy John,123@gmail.com,present,Monday,Chem,20230112

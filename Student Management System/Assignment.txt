@@ -1,0 +1,14 @@
+StudentID,StudentName,Classname,AssignmentGrade
+2,Jane Smith,Hist,100
+
+4,John David,Engl,40
+
+5,John Wu,Chem,50
+
+4,John David,Phys,50
+
+54,John Alex,Phys,90.5
+
+4,John David,Kin,60
+
+54,John Alex,Phys,92.5
